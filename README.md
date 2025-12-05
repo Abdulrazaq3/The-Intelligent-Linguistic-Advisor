@@ -42,7 +42,7 @@ The repository is organized as follows:
 ## 5. Team – Ranan
 
 - **Abdulrazaq Al-Dawsari** – [LinkedIn](https://www.linkedin.com/in/abdulrazaq-h-aldawsari-046511209?)  
-- **Rahaf Mahfoudh** – [LinkedIn](https://www.linkedin.com/in/USERNAME2)  
+- **Rahaf Mahfoudh** – [LinkedIn](https://www.linkedin.com/in/rahaf-faiz-81b267251?)  
 - **Raniyah Alghamdi** – [LinkedIn](https://www.linkedin.com/in/raniyah-alghamdi?)  
 - **Maher Alhijile** – [LinkedIn](https://www.linkedin.com/in/maher-alhijile/)  
 - **Bader Alshamrani** – [LinkedIn](https://www.linkedin.com/in/bader-alshamrani-49a04a245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
