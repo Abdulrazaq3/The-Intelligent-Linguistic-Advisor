@@ -1,4 +1,4 @@
-#The Intelligent Linguistic Advisor  
+The Intelligent Linguistic Advisor  
 المستشار اللغوي – فريق رنان
 
 This repository contains the project **“Linguistic Advisor” (المستشار اللغوي)** developed by **Team Ranan** as part of the Samsung – Misk AI Innovation program.
