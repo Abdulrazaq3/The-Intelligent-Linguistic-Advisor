@@ -1,4 +1,4 @@
-# The Intelligent Linguistic Advisor  
+<img width="823" height="485" alt="image" src="https://github.com/user-attachments/assets/28d420eb-8a1d-4cf9-b03e-e3c1984cb0e5" /># The Intelligent Linguistic Advisor  
 المستشار اللغوي – فريق رنان
 
 This repository contains the project **“Linguistic Advisor” (المستشار اللغوي)** developed by **Team Ranan** as part of the Samsung – Misk AI Innovation program.
@@ -28,15 +28,8 @@ The repository is organized as follows:
 - `SIC_AI_Capstone Project_Work Breakdown Structure`  
   WBS file summarizing project tasks and timeline.
 
-- `Backend & Web Application (`backend_app/`)` 
-
-This folder contains the end-to-end application used to serve the Intelligent Linguistic Advisor through a web interface. It combines a **FastAPI backend** with a simple **React frontend**.
-
-- Location: `backend_app/main.py` and related modules.
-- Responsibilities:
-  - Exposes REST endpoints for the RAG pipeline.
-  - Connects to the vector database (ChromaDB) and the Qwen models.
-  - Handles query → retrieval → generation → response flow for the chatbot.
+- `Backend & Web Application (backend_app/)`  
+  End-to-end web app that serves the linguistic advisor, combining a FastAPI backend for the RAG API with a simple React chatbot interface.
 
 ---
 
