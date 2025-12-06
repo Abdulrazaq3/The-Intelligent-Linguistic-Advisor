@@ -28,6 +28,16 @@ The repository is organized as follows:
 - `SIC_AI_Capstone Project_Work Breakdown Structure`  
   WBS file summarizing project tasks and timeline.
 
+- `Backend & Web Application (`backend_app/`)` 
+
+This folder contains the end-to-end application used to serve the Intelligent Linguistic Advisor through a web interface. It combines a **FastAPI backend** with a simple **React frontend**.
+
+- Location: `backend_app/main.py` and related modules.
+- Responsibilities:
+  - Exposes REST endpoints for the RAG pipeline.
+  - Connects to the vector database (ChromaDB) and the Qwen models.
+  - Handles query → retrieval → generation → response flow for the chatbot.
+
 ---
 
 ## 4. Technical Overview
