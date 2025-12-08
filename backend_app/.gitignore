@@ -9,3 +9,7 @@ __pycache__/
 .vscode/
 .idea/
 .env
+
+# Environment and Cache Files
+.env
+__pycache__/
