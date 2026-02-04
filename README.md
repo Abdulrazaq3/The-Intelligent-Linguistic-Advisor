@@ -1,3 +1,43 @@
+# The Intelligent Linguistic Advisor (المستشار اللغوي) — Team Ranan
+
+Modern Standard Arabic grammar assistant built with RAG + FastAPI + React chatbot.
+
+## Live Demo
+- Web App: https://the-intelligent-linguistic-advisor.vercel.app
+
+## What it does
+- Provides Arabic linguistic consultations (grammar, spelling, syntax, formal writing).
+- Uses Retrieval-Augmented Generation (RAG) over trusted Arabic references.
+- Delivers concise explanations and suggested corrections in a chat experience.
+
+## Tech Stack
+- RAG Pipeline (retrieval + generation)
+- Backend: FastAPI
+- Frontend: React
+- Notebooks: data preparation, evaluation, experiments
+
+## My Role (Abdulrazaq Al-Dawsari)
+- Project Manager + Full-Stack (FastAPI + React)
+- Data preparation & evaluation support for the RAG system
+- Deployment: Vercel (frontend) + API setup (if applicable)
+
+## Team
+- Abdulrazaq Al-Dawsari, Rahaf Mahfoudh, Raniyah Alghamdi, Maher Alhijile, Bader Alshamrani, Shahad Alnashwan
+
+## Run locally (quick)
+### Backend
+```bash
+cd backend_app
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+
+
+
+
+
+
+
+
 The Intelligent Linguistic Advisor  
 المستشار اللغوي – فريق رنان
 
